@@ -7,4 +7,3 @@ This is a academic repo for sduying/Implmenting/Experimenting react native. Will
 React built in modules also implmenting Custom Native modules
 
 # Info
-Nothing much
